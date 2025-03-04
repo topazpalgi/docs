@@ -2,11 +2,9 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
   "name": "Topaz's DocHub Demo",
-  "colors": {
-    "primary": "#191308",
-    "light": "#C73E1D",
-    "dark": "#fcab64"
-  },
+    "colors": {
+      "primary": "#ff0000"
+    },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
