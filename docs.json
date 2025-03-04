@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
-  "name": "Mint Starter Kit",
+  "name": "Topaz's DocHub Demo",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#191308",
+    "light": "#C73E1D",
+    "dark": "#fcab64"
   },
   "favicon": "/favicon.svg",
   "navigation": {
