@@ -3,7 +3,9 @@
   "theme": "mint",
   "name": "Topaz's DocHub Demo",
     "colors": {
-      "primary": "#ff0000"
+      "primary": "#ff0000",
+         "dark": "#000000",
+          "light": "#ffffff"
     },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -24,11 +26,6 @@
     ],
     "global": {
       "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        }
       ]
     }
   },
@@ -37,12 +34,6 @@
     "dark": "/logo/dark.svg"
   },
   "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ]
   },
   "footer": {
     
