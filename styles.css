@@ -1,0 +1,13 @@
+#navbar {
+    background: "#fffff2";
+    padding: 1rem;
+  }
+
+.dark\:text-primary-light:is(.dark *) {
+    --tw-text-opacity: 1;
+    color: rgb(var(--primary-light) / var(--tw-text-opacity));
+}
+  
+  footer {
+    margin-top: 2rem;
+  }
