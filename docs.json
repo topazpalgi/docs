@@ -3,8 +3,8 @@
   "theme": "maple",
   "name": "Topaz's DocHub",
   "colors": {
-    "primary": "#9A3412",
-    "light": "#EA580C",
+    "primary": "#ff6600",
+    "light": "#ff6600",
     "dark": "#9A3412"
   },
   "navigation": {
