@@ -1,17 +1,16 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Topaz's DocHub Demo",
-    "colors": {
-      "primary": "#ff0000",
-         "dark": "#000000",
-          "light": "#ffffff"
-    },
-  "favicon": "/favicon.svg",
+  "theme": "maple",
+  "name": "Topaz's DocHub",
+  "colors": {
+    "primary": "#9A3412",
+    "light": "#EA580C",
+    "dark": "#9A3412"
+  },
   "navigation": {
-    "tabs": [
+    "languages": [
       {
-        "tab": " ",
+        "language": "en",
         "groups": [
           {
             "group": "Get Started",
@@ -20,22 +19,39 @@
               "quickstart",
               "development"
             ]
+          },
+          {
+            "group": "Essentials",
+            "pages": [
+              "essentials/markdown",
+              "essentials/code",
+              "essentials/images",
+              "essentials/settings",
+              "essentials/navigation",
+              "essentials/reusable-snippets"
+            ]
+          },
+          {
+            "group": "API Documentation",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          },
+          {
+            "group": "Endpoint Examples",
+            "pages": [
+              "api-reference/endpoint/get",
+              "api-reference/endpoint/create",
+              "api-reference/endpoint/delete"
+            ]
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-      ]
-    }
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
+    ]
   },
   "footer": {
-    
+    "socials": {
+
+    }
   }
 }
