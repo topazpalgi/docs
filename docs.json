@@ -1,42 +1,63 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
+
   "theme": "maple",
-  "favicon": "logo",
   "name": "Topazlify",
   "colors": {
-    "primary": "#ff6600",
-    "light": "#ff6600",
-    "dark": "#ff6600"
+  "primary": "#ff6600",
+  "light": "#ff6600",
+  "dark": "#ff6600"
   },
   "navigation": {
     "versions": [
       {
-        "version": "1.0.0",
+        "version": "Atlit",
         "groups": [
           {
-            "group": "Getting Started",
-            "pages": ["v1/introduction"]
+            "group": "Get Started",
+            "pages": [
+              "v1/introduction"
+            ]
           },
           {
             "group": "Development",
-            "pages": ["v1/development/development", "v1/development/demo"]
-          }
+            "pages": [
+              "v1/development/development",
+              "v1/development/demo"
+            ]
+          },
+          {
+            "group": "GitHub",
+            "pages": [
+              "links/quickstart"
+            ]
+          }   
         ]
       },
       {
-        "version": "2.0.0",
+        "version": "Binyamina",
         "groups": [
           {
-            "group": "Getting Started",
-            "pages": ["v2/introduction"]
+            "group": "Get Started",
+            "pages": [
+              "v2/introduction"
+            ]
           },
           {
             "group": "Development",
-            "pages": ["v2/essentials/code", "v2/essentials/settings"]
-          }
+            "pages": [
+              "v2/essentials/code",
+              "v2/essentials/images"
+            ]
+          },
+          {
+            "group": "GitHub",
+            "pages": [
+              "links/quickstart"
+            ]
+          }  
         ]
       }
     ]
-  },
-  "footer": {}
+  }
 }
+
