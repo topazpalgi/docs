@@ -1,11 +1,16 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
-  "name": "Topazlify",
-  "colors": {
-  "primary": "#ff6600",
-  "light": "#ff6600",
-  "dark": "#ff6600"
+  "$schema": "https://mintlify.com/docs.json", 
+  "theme": "maple", 
+  "name": "Topazlify", 
+  "logo": { 
+    "light": "/logo/light.svg", 
+    "dark": "/logo/dark.svg", 
+    "href": "https://regatta.dev" 
+  }, 
+  "colors": { 
+    "primary": "#ff6600", 
+    "light": "#ff6600", 
+    "dark": "#ff6600" 
   },
   "navigation": {
     "versions": [
