@@ -9,33 +9,34 @@
     "dark": "#ff6600"
   },
   "navigation": {
-    "languages": [
+    "versions": [
       {
-        "language": "en",
+        "version": "1.0.0",
         "groups": [
           {
-            "group": "Get Started",
-            "pages": [
-              "introduction"
-            ]
+            "group": "Getting Started",
+            "pages": ["v1/introduction"]
           },
           {
             "group": "Development",
-            "pages": [
-              "development/development",
-              "development/demo"
-            ]
+            "pages": ["v1/development/development", "v1/development/demo"]
+          }
+        ]
+      },
+      {
+        "version": "2.0.0",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": ["v2/introduction"]
           },
           {
-            "group": "Links",
-            "pages": [
-              "quickstart"
-            ]
+            "group": "Development",
+            "pages": ["v2/essentials/code", "v1/essentials/settings"]
           }
         ]
       }
     ]
   },
-  "footer": {
-  }
+  "footer": {}
 }
