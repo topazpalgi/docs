@@ -32,7 +32,7 @@
           },
           {
             "group": "Development",
-            "pages": ["v2/essentials/code", "v1/essentials/settings"]
+            "pages": ["v2/essentials/code", "v2/essentials/settings"]
           }
         ]
       }
