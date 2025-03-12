@@ -11,3 +11,7 @@
   footer {
     margin-top: 2rem;
   }
+
+#search-bar-entry {
+  display: none;
+}
