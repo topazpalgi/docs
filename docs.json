@@ -1,5 +1,5 @@
 {
-
+  "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
   "name": "Topazlify",
   "colors": {
@@ -56,6 +56,9 @@
             ]
           }  
         ]
+      },
+      { "feedback": 
+        { "suggestEdit": true } 
       }
     ]
   }
