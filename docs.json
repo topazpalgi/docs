@@ -3,8 +3,8 @@
   "theme": "maple", 
   "name": "Topazlify", 
   "logo": { 
-    "light": "/logo/dark.svg", 
-    "dark": "/logo/light.svg", 
+    "light": "/logo/light.svg", 
+    "dark": "/logo/dark.svg", 
     "href": "https://regatta.dev" 
   }, 
   "colors": { 
