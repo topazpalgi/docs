@@ -50,6 +50,8 @@
           {
             "group": "Development",
             "pages": [
+              "v2/essentials/demo",
+              "v2/essentials/development",
               "v2/essentials/code",
               "v2/essentials/images"
             ]
